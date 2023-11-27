@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**muhammednoorrr/muhammednoorrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Muhammed's Portfolio
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio! I'm Muhammed Ahmed.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammednoorrr)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:** Python, C++, Java, C#, HTML, CSS
+
+
+Let's connect and discuss exciting opportunities or collaborations:
+
+- [LinkedIn][(link-to-linkedin-profile)](https://linkedin.com/in/muhammed-ahmed-170a40276)
+
+
+Thank you for visiting my GitHub! Feel free to explore my projects and repositories. If you have any questions or suggestions, don't hesitate to reach out.
+
+Happy coding! 👨‍💻
