@@ -1,7 +1,4 @@
 
-
-# Muhammed's Portfolio
-
 Welcome to my GitHub portfolio! I'm Muhammed Ahmed.
 
 
