@@ -1,4 +1,4 @@
-<h3 align="center">Passionate Information Systems Student | Bridging Tech and Business</h3>
+<h3 align="center">Hello there, I'm Muhammed Ahmed a passionate Information Systems Student | Bridging Tech and Business</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammednoorrr&label=Profile%20views&color=0e75b6&style=flat" alt="muhammednoorrr" /> </p>
 
