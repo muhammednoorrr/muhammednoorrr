@@ -1,6 +1,5 @@
 <h3 align="center">Hello there, I'm Muhammed Ahmed a passionate Information Systems Student | Bridging Tech and Business</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammednoorrr&label=Profile%20views&color=0e75b6&style=flat" alt="muhammednoorrr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammednoorrr" alt="muhammednoorrr" /></a> </p>
 
