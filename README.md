@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammednoorrr" alt="muhammednoorrr" /></a> </p>
 
-- 🌱 I’m currently learning **c# and web development**
+
 
 - 📫 How to reach me **muhamme7d7@gmail.com**
 
