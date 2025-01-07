@@ -1,5 +1,4 @@
-<h3 align="center">Hello there, I'm Muhammed Ahmed a passionate Information Systems Student | Bridging Tech and Business</h3>
-
+<h3 align="center">Hello there, I'm Muhammed Ahmed, a Full-Stack Developer and Network Administrator</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
