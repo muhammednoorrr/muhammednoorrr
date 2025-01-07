@@ -13,6 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammednoorrr&show_icons=true&locale=en&layout=compact" alt="muhammednoorrr" /></p>
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammednoorrr&show_icons=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammednoorrr&" alt="muhammednoorrr" /></p>
